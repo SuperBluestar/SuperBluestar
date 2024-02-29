@@ -24,10 +24,11 @@ Passionate Full-stack Developer specialized in scalable web & mobile development
 
 ### Skills
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
-- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
+- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs, SpringBoot, ASP.NET, FastAPI, Flask
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
-- 📫 Interesting : OpenCV, DL and AI
+- 📫 Interesting & Learning : OpenCV, DL/ML and AI, LLM
+- Infura: AWS, GCP, Azure, Firebas, Supabase, Digital Ocean
 
 ### Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
